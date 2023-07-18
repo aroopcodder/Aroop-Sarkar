@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arup Sarkar</h1>
 <h3 align="center">A passionate frontend and backend developer from Kokrajhar,Assam</h3>
-
-<img align="right"alt="coding"width="400"src="https://www.bing.com/th/id/OGC.54e37d8074ebcde1d96c77d7b2a7f310?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f54%2fe3%2f7d%2f54e37d8074ebcde1d96c77d7b2a7f310.gif&ehk=PrEGdwL4PhD7Z%2fwJCNJ7ZoCNkliX6f%2bNR0nwPKvtck4%3d">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aroopcodder&label=Profile%20views&color=0e75b6&style=flat" alt="aroopcodder" /> </p>
 
 - 🔭 I’m currently working on **Mushroom image classification**
